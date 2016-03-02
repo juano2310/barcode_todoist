@@ -15,7 +15,7 @@ The challenge here is that it needs to listen for keyboard events so it has to r
 <code>sudo nano /etc/profile</code>
 
 sleep 10  
-python /home/pi/Development/barcode.py
+python /home/pi/barcode.py
 
 - Press ctrl X to exit and Y to save
 - Restart the Pi
